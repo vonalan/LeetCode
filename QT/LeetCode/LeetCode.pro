@@ -7,6 +7,11 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
-SOURCES += main.cpp
+SOURCES += \
+    main.cpp \
+    solution.cpp
 
 CONFIG += c++11
+
+HEADERS += \
+    solution.hpp

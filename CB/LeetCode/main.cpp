@@ -11,14 +11,23 @@
 #include <cmath>
 #include <functional>
 #include <algorithm>
+#include <random> 
 
 #include "solution.hpp"
 
-using namespace std;
+// using namespace std; 
 
 int main(int argc, char **argv) {
-	cout << "Welcome to LeetCode! " << endl;
+	std::cout << "Welcome to LeetCode! " << std::endl; 
 
-	system("pause");
-	return 0;
+	vector<vector<int>> vec2d = {{0,0,0},{0,1,0},{1,1,1}};
+    // Solution slt;
+    // vector<vector<int>> result = slt.updateMatrix(vec2d);
+
+	// Matrix matrix(vec2d); 
+    Matrix matrix = vec2d;
+	cout << matrix;
+
+    // system("pause");
+	return 0; 
 }
