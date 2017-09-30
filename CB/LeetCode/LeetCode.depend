@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1501552579 source:f:\users\kingdom\desktop\nutcloud\leetcode\cb\leetcode\main.cpp
+	<iostream>
+	<string>
+	<climits>
+	<cmath>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<queue>
+	<map>
+	<set>
+	<cmath>
+	<functional>
+	<algorithm>
+	"solution.hpp"
+
+1501684305 f:\users\kingdom\desktop\nutcloud\leetcode\cb\leetcode\solution.hpp
+	<iostream>
+	<string>
+	<climits>
+	<cmath>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<queue>
+	<map>
+	<set>
+	<cmath>
+	<functional>
+	<algorithm>
+
+1501509991 source:f:\users\kingdom\desktop\nutcloud\leetcode\cb\leetcode\solution.cpp
+	<iostream>
+	<string>
+	<climits>
+	<cmath>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<queue>
+	<map>
+	<set>
+	<cmath>
+	<functional>
+	<algorithm>
+	"solution.hpp"
+
