@@ -1,9 +1,9 @@
-bin
-obj
-.vscode
-build-LeetCode-Desktop-Debug
+bin 
+obj 
+.vscode 
+build-LeetCode-Desktop-Debug 
 .vs 
-Debug
-x64
-*.sdf
+Debug 
+x64 
+*.sdf 
 *.db 
